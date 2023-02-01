@@ -9,7 +9,7 @@ The code presented in this repository is the joint work of Boris Fresow and Mark
 * #3: Reaktive Anwendungen mit Quarkus entwickeln (*in Vorbereitung*)
 * #4: Reaktive Systeme mit Quarkus entwickeln (*in Vorbereitung*)
 
-If you want to learn more about Quarkus, be sure to check out its [https://quarkus.io/](website).
+If you want to learn more about Quarkus, be sure to check out its [website](https://quarkus.io/).
 
 ## Running the application
 
